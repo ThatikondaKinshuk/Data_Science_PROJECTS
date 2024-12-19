@@ -57,7 +57,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/disease-prediction.git
+   git clone https://github.com/ThatikondKinshuk/disease-prediction.git
    cd disease-prediction
    ```
 
